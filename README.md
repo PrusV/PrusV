@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-Hey there! 👋 I'm a student and an aspiring web developer with a passion for building modern, user-friendly websites and applications.
+I'm a student and an aspiring web developer with a passion for building modern, user-friendly websites and applications.
 
 ## 🚀 About Me
 - 🌱 I’m currently diving into **React** and exploring its ecosystem (components, hooks, etc.).
