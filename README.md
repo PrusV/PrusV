@@ -27,8 +27,8 @@ I'm a student and an aspiring web developer with a passion for building modern, 
 
 ## 📂 Featured Projects
 - 🌐 [Fresh harvest](https://github.com/PrusV/fresh-harvest) - Landing page of small marketplace.
-- 🎨 [Netclicks](https://github.com/PrusV/fresh-harvest) - Searching website for films.
-- 🛠️ [Space X](https://github.com/your-username/project-3) - Landing page for aerospace company.
+- 🎨 [Netclicks](https://github.com/PrusV/netclicks) - Searching website for films.
+- 🛠️ [Space X](https://github.com/PrusV/space_x) - Landing page for aerospace company.
 ## 💻 Codewars Profile
 Check out my **Codewars** profile to see my coding challenges and progress:  
 [![Codewars](https://www.codewars.com/users/Varus_JS/badges/small)](https://www.codewars.com/users/Varus_JS)
